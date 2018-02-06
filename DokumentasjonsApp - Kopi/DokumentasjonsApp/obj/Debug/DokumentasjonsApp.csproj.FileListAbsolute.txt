@@ -1,0 +1,20 @@
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.csprojResolveAssemblyReference.cache
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.Form1.resources
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.Properties.Resources.resources
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.csproj.GenerateResource.Cache
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.csproj.CoreCompileInputs.cache
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\bin\Debug\DokumentasjonsApp.exe.config
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\bin\Debug\DokumentasjonsApp.exe
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\bin\Debug\DokumentasjonsApp.pdb
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.exe
+C:\Users\ojo\source\repos\DokumentasjonsApp\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.pdb
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.csprojResolveAssemblyReference.cache
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.Form1.resources
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.Properties.Resources.resources
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.csproj.GenerateResource.Cache
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.csproj.CoreCompileInputs.cache
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.exe
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Debug\DokumentasjonsApp.pdb
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\bin\Debug\DokumentasjonsApp.exe.config
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\bin\Debug\DokumentasjonsApp.exe
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\bin\Debug\DokumentasjonsApp.pdb

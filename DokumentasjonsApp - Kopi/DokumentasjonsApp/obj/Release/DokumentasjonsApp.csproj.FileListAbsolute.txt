@@ -1,0 +1,10 @@
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\bin\Release\DokumentasjonsApp.exe.config
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\bin\Release\DokumentasjonsApp.exe
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\bin\Release\DokumentasjonsApp.pdb
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Release\DokumentasjonsApp.csprojResolveAssemblyReference.cache
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Release\DokumentasjonsApp.Form1.resources
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Release\DokumentasjonsApp.Properties.Resources.resources
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Release\DokumentasjonsApp.csproj.GenerateResource.Cache
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Release\DokumentasjonsApp.csproj.CoreCompileInputs.cache
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Release\DokumentasjonsApp.exe
+C:\Users\ojo\source\repos\DokumentasjonsApp - Kopi\DokumentasjonsApp\obj\Release\DokumentasjonsApp.pdb
